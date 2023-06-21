@@ -1,0 +1,66 @@
+body {
+
+    padding: 0 32px;
+}
+
+.header {
+
+    display: flex;
+    Justify-content:flex-end;
+    list-style: none;
+    padding: 60px 0 ;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    
+}
+
+.header_li{   
+    padding-left: 24px;
+    text-decoration: none;
+}
+
+main {
+
+    display: flex;
+}
+
+
+
+.aside_info {
+
+    padding: 20px; 
+}
+
+
+
+.img {
+
+display: flex;
+
+}
+
+.travel {
+margin-left: 15px;
+}
+
+.footer {
+
+    display: flex;
+    Justify-content:space-between;
+    list-style: none;
+    padding: 60px 0 ;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+
+.footer_li {
+    text-decoration: none;
+}
+
+a {
+
+    color: inherit;
+}
